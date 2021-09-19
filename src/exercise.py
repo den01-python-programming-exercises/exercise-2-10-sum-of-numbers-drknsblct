@@ -9,7 +9,7 @@ def main():
             break
         
         sum += num
-    print('Sum of the numbers: ' + str(sum))
+    print('Sum of numbers: ' + str(sum))
 
 if __name__ == '__main__':
     main()
